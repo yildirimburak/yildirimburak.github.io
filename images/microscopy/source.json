@@ -1,0 +1,47 @@
+{
+  "source_pdf": "/docs/cnt-technical-introduction.pdf",
+  "images": [
+    {
+      "file": "cnt-fesem-20000x.jpg",
+      "pdf_page": 9,
+      "point": 1,
+      "magnification": 20000,
+      "scale_bar": "3.00 µm",
+      "native_pixels": [
+        770,
+        577
+      ]
+    },
+    {
+      "file": "cnt-fesem-50000x.jpg",
+      "pdf_page": 9,
+      "point": 1,
+      "magnification": 50000,
+      "scale_bar": "1.00 µm",
+      "native_pixels": [
+        770,
+        577
+      ]
+    },
+    {
+      "file": "cnt-fesem-100000x.jpg",
+      "pdf_page": 9,
+      "point": 1,
+      "magnification": 100000,
+      "scale_bar": "500 nm",
+      "native_pixels": [
+        770,
+        577
+      ]
+    }
+  ],
+  "additional_images_page": 10,
+  "source_note_page": 8,
+  "source_note": {
+    "sample": "Carbon(TM-050)",
+    "applicant": "TECHSENSE",
+    "description": "Document presents this as an authorized analysis case example."
+  },
+  "processing": "Embedded JPEGs extracted; original pixels and scale bars retained.",
+  "source_title": "DOOHA CNT Conductive Tile — Technical Superiority Report"
+}
